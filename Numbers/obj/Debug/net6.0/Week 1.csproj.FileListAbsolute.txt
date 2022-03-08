@@ -1,0 +1,30 @@
+D:\Coding Stuff\c#\Week 1\bin\Debug\net6.0\Week 1.exe
+D:\Coding Stuff\c#\Week 1\bin\Debug\net6.0\Week 1.deps.json
+D:\Coding Stuff\c#\Week 1\bin\Debug\net6.0\Week 1.runtimeconfig.json
+D:\Coding Stuff\c#\Week 1\bin\Debug\net6.0\Week 1.dll
+D:\Coding Stuff\c#\Week 1\bin\Debug\net6.0\Week 1.pdb
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.csproj.AssemblyReference.cache
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.AssemblyInfoInputs.cache
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.AssemblyInfo.cs
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.csproj.CoreCompileInputs.cache
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.dll
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\refint\Week 1.dll
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.pdb
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\Week 1.genruntimeconfig.cache
+D:\Coding Stuff\c#\Week 1\obj\Debug\net6.0\ref\Week 1.dll
+D:\Coding Stuff\c#\Week1\Numbers\bin\Debug\net6.0\Week 1.exe
+D:\Coding Stuff\c#\Week1\Numbers\bin\Debug\net6.0\Week 1.deps.json
+D:\Coding Stuff\c#\Week1\Numbers\bin\Debug\net6.0\Week 1.runtimeconfig.json
+D:\Coding Stuff\c#\Week1\Numbers\bin\Debug\net6.0\Week 1.dll
+D:\Coding Stuff\c#\Week1\Numbers\bin\Debug\net6.0\Week 1.pdb
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.csproj.AssemblyReference.cache
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.AssemblyInfoInputs.cache
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.AssemblyInfo.cs
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.csproj.CoreCompileInputs.cache
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.dll
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\refint\Week 1.dll
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.pdb
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\Week 1.genruntimeconfig.cache
+D:\Coding Stuff\c#\Week1\Numbers\obj\Debug\net6.0\ref\Week 1.dll
